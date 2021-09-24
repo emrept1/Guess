@@ -1,0 +1,4 @@
+﻿  randomgenerator.cpp
+C:\Users\ismet\Desktop\Emre FLASA AL,\c++\Workshops\Random iki sayı üretip toplayan sistem\randomgenerator\randomgenerator.cpp(11,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\ismet\Desktop\Emre FLASA AL,\c++\Workshops\Random iki sayı üretip toplayan sistem\randomgenerator\randomgenerator.cpp(31): warning C4717: 'main' : tüm denetim yollarında özyinelemelidir, işlev çalışma zamanı yığın taşmasına neden olacak
+  randomgenerator.vcxproj -> C:\Users\ismet\Desktop\Emre FLASA AL,\c++\Workshops\Random iki sayı üretip toplayan sistem\Debug\randomgenerator.exe
